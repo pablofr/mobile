@@ -27,7 +27,7 @@ export class AppComponent {
     },
     {
       title: 'Configurações',
-      url: '/configurações',
+      url: '/config',
       icon: 'construct'
     }
   ];
